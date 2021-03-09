@@ -1,3 +1,4 @@
+[![build](https://github.com/allegheny-computer-science-203-s2021/activity4-connellyw/actions/workflows/main.yml/badge.svg?branch=main&event=deployment)](https://github.com/allegheny-computer-science-203-s2021/activity4-connellyw/actions/workflows/main.yml)
 # cs203s2021-activity4
 
 ## DUE: by Thursday, March 11 
